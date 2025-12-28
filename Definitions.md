@@ -1,3 +1,5 @@
+- Venture capital
+- سرمایه‌گذاری خطرپذیر
 - GAMS: General algebraic modeling system
 
 - TRL: Technology readiness level
