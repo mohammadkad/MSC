@@ -1,5 +1,9 @@
 - Venture capital
 - سرمایه‌گذاری خطرپذیر
+- Small and medium enterprises (SME)
+- بنگاه‌های کوچک و متوسط
+- Small And Midsize Business (SMB)
+- کسب‌وکارهای کوچک و متوسط
 - GAMS: General algebraic modeling system
 
 - TRL: Technology readiness level
