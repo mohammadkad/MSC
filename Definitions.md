@@ -1,3 +1,5 @@
+- Crowdfunding
+- سرمایه‌گذاری جمعی، تامین مالی جمعی
 - Venture capital
 - سرمایه‌گذاری خطرپذیر
 - Small and medium enterprises (SME)
