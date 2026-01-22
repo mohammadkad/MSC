@@ -1,3 +1,5 @@
+- Circular economy (CE), circularity
+- اقتصاد چرخشی
 - Crowdfunding
 - سرمایه‌گذاری جمعی، تامین مالی جمعی
 - Venture capital
