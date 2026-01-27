@@ -4,6 +4,8 @@
 - سرمایه‌گذاری جمعی، تامین مالی جمعی
 - Venture capital
 - سرمایه‌گذاری خطرپذیر
+- Corporate venture capital (CVC)
+- سرمایه‌گذاری خطرپذیر شرکتی، سرمایه‌گذاری جسورانه شرکتی
 - Small and medium enterprises (SME)
 - بنگاه‌های کوچک و متوسط
 - Small And Midsize Business (SMB)
